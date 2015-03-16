@@ -2,6 +2,7 @@
 #include "GLFW/glfw3.h"
 #include <stdlib.h>
 #include <string>
+#include <math.h>
 #include <iostream>
 
 #pragma comment(lib, "glfw3dll.lib")
